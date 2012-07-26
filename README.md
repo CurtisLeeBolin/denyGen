@@ -11,4 +11,4 @@ Suggested use with root cron (after moving denyGen.py to /usr/local/bin/):
 The above exapmle will generate a new host.deny at 6am everyday blocking spammer from the last 30 days and blocking China.
 
 Visit http://www.stopforumspam.com/ for informataion about the spam block list.
-Visit http://www.ipdeny.com/ipblocks/ for information about the contry block lists.
+Visit http://www.ipdeny.com/ipblocks/ for information about the country block lists.
